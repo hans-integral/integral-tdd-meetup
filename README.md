@@ -16,7 +16,7 @@ Download and install `VirtualBox`. I used version: `6.1.4,136177`. Any `6.1` ver
 - Use your package manager (distribution dependant) to install VirtualBox. See https://www.virtualbox.org/wiki/Linux_Downloads for instructions.
 
 # Import the VirtualBox image
-[Google Drive link](https://drive.google.com/open?id=14dMkBtCQ0d_fdiV0ddSLuV65EbJs97oy)
+[Google Drive link](https://drive.google.com/drive/folders/14dMkBtCQ0d_fdiV0ddSLuV65EbJs97oy?usp=sharing)
 
 Download the Integral-TTD-meetup.ova and Integral-TTD-meetup.vdi files.
 In VirtualBox, you can then import this virtual machine via: File > Import Appliance, where you import the Integral-TTD-meetup.ova file.
