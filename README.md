@@ -12,7 +12,7 @@ Download and install `VirtualBox`. I used version: `6.1.4,136177`. Any `6.1` ver
 - download https://download.virtualbox.org/virtualbox/6.1.4/VirtualBox-6.1.4-136177-Win.exe
 - using Chocolatey: `choco install virtualbox`.
 
-To install on Linux:
+## Install on Linux
 - Use your package manager (distribution dependant) to install VirtualBox. See https://www.virtualbox.org/wiki/Linux_Downloads for instructions.
 
 # Import the VirtualBox image
