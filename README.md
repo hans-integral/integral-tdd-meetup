@@ -27,8 +27,8 @@ Recommended amount of RAM: 4096MB, minimal: 2048MB
 
 When you boot the image, you will be presented with an Ubuntu login screen. You can log in with the following credentials.
 
-Username: integral
-Password: 123meetup
+    Username: integral
+    Password: 123meetup
 
 # IntelliJ 
 
